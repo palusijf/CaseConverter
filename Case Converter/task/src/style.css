@@ -1,0 +1,10 @@
+.title {
+    font-size: 32px;
+}
+
+button {
+    background-color: coral;
+    border: 1px;
+    margin: 8px;
+    padding: 4px;
+}
